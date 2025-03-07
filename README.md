@@ -15,3 +15,14 @@ Setup Guide:
 - run command "php artisan install:api --passport"
 - run command "php artisan migrate"
 - run command "php artisan serve"
+
+Test Credentials:
+- email: ahsanahmed88@gmail.com
+- pass: ahsan123
+
+API Documentation:
+- Please check the postman collection attached in the application folder
+
+
+Example requests/responses:
+- Please check the request_response_screenshots attached in the application folder
